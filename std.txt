@@ -1,0 +1,4 @@
+PES2201800368;Nitish Srivatsa;03/02/2000;HSR Layout, Bengaluru - 560100;7795234469;9.5
+PES2201800684;Sathvik Saya;28/09/2000;Jayanagara, Bengaluru - 560100;6368977526;7.98
+PES2201800632;Sandeep Bhat;11/11/2000;Chennapattana, Karnataka - 560102;6698332578;9.68
+PES2201800706;Shashank G S;17/09/2000;Chitradurga, Karnataka - 597103;9987236654;8.25
